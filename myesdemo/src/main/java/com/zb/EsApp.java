@@ -11,8 +11,8 @@ import java.util.List;
 @SpringBootApplication
 public class EsApp {
     public static void main(String[] args) throws Exception {
-             //测试修改代码
-	    //李四修改了代码
+
+         //写完代码了
 	
         ConfigurableApplicationContext run = SpringApplication.run(EsApp.class, args);
         CourseService bean = run.getBean(CourseService.class);
