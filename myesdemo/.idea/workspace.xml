@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5402f808-4cd5-484d-be6d-ff741876c3b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/develop/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YNoNkNuIJzLtXugicFqv8cTw1z" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582686469914" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../myesdemo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EsApp">
+    <configuration name="TestIndex.queryBool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryBool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryHight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryHight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryMatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.queryMultiMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="queryMultiMatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myesdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zb.EsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestIndex.queryMatch" />
+      <item itemvalue="JUnit.TestIndex.queryMultiMatch" />
+      <item itemvalue="JUnit.TestIndex.queryBool" />
+      <item itemvalue="JUnit.TestIndex.queryFilter" />
+      <item itemvalue="JUnit.TestIndex.queryHight" />
+      <item itemvalue="Spring Boot.EsApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestIndex.queryHight" />
+        <item itemvalue="JUnit.TestIndex.queryFilter" />
+        <item itemvalue="JUnit.TestIndex.queryBool" />
+        <item itemvalue="JUnit.TestIndex.queryMultiMatch" />
+        <item itemvalue="JUnit.TestIndex.queryMatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5402f808-4cd5-484d-be6d-ff741876c3b9" name="Default Changelist" comment="" />
+      <created>1582512621323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582512621323</updated>
+      <workItem from="1582512628822" duration="3653000" />
+      <workItem from="1582678775010" duration="7898000" />
+      <workItem from="1582792376530" duration="1973000" />
+      <workItem from="1582800637171" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestIndex_queryTerm - 2020.02.26 at 09h 26m 11s.xml">
+      <configuration name="TestIndex.queryTerm" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryMatch - 2020.02.26 at 09h 34m 18s.xml">
+      <configuration name="TestIndex.queryMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryMatch - 2020.02.26 at 09h 35m 34s.xml">
+      <configuration name="TestIndex.queryMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryMatch - 2020.02.26 at 09h 41m 43s.xml">
+      <configuration name="TestIndex.queryMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryMultiMatch - 2020.02.26 at 09h 53m 10s.xml">
+      <configuration name="TestIndex.queryMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryMultiMatch - 2020.02.26 at 09h 54m 47s.xml">
+      <configuration name="TestIndex.queryMultiMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryBool - 2020.02.26 at 10h 23m 43s.xml">
+      <configuration name="TestIndex.queryBool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryFilter - 2020.02.26 at 10h 39m 59s.xml">
+      <configuration name="TestIndex.queryFilter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryFilter - 2020.02.26 at 10h 40m 31s.xml">
+      <configuration name="TestIndex.queryFilter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIndex_queryHight - 2020.02.26 at 10h 53m 24s.xml">
+      <configuration name="TestIndex.queryHight" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
